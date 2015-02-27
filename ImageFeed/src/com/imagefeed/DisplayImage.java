@@ -1,4 +1,4 @@
-package com.example.nasaimageoftheday;
+package com.imagefeed;
 
 import java.io.File;
 import java.io.FileOutputStream;
@@ -8,6 +8,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.text.SimpleDateFormat;
 import java.util.Date;
+
 
 
 import android.app.Activity;

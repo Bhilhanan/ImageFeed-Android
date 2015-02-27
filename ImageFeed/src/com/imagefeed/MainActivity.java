@@ -1,7 +1,9 @@
-package com.example.nasaimageoftheday;
+package com.imagefeed;
 
 
 import java.util.ArrayList;
+
+import com.example.nasaimageoftheday.R;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
